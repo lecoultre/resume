@@ -1,5 +1,6 @@
 title: Jean-Dipak SEN
-logo: /assets/img/headshot_circle.png
+#logo: /assets/img/headshot_circle.png
+logo: /assets/img/headshot_circle2.jpg
 #description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
