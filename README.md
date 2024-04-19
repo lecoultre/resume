@@ -3,9 +3,9 @@
 #### Technical Skills: Python, SQL, AWS, Tableau, Power BI
 
 ## Education
-- FRM - Financial Risk Manager, The Global Association of Risk Professionals (_May 2019_)								       
-- Accounting and Finance, London School of Economics (_December 2019_)
-- International Relations, The Graduate Institute Geneva (_May 2017_)
+- FRM - Financial Risk Manager, [The Global Association of Risk Professionals](https://www.garp.org/) (_May 2019_)								       
+- Accounting and Finance, [London School of Economics](https://www.lse.ac.uk/)) (_December 2019_)
+- International Relations, [The Graduate Institute Geneva](https://www.graduateinstitute.ch/) (_May 2017_)
 
 ## Work Experience
 **Founder @ [Fortrisk](https://web-production-5a5a.up.railway.app/) (_June 2022 - Present_)**
