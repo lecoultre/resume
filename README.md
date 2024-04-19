@@ -1,11 +1,11 @@
 # Risk Manager & Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, AWS, Tableau, Power BI
 
 ## Education
-- FRM - Financial Risk Manager | The Global Association of Risk Professionals (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- FRM - Financial Risk Manager | The Global Association of Risk Professionals (_May 2019_)								       
+- Accounting and Finance	| London School of Economics (_December 2019_)
+- International Relations | The Graduate Institute Geneva (_May 2017_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
