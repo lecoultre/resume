@@ -16,7 +16,7 @@
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
-**Founder @ [Tricouni]((https://web-production-47f7.up.railway.app) (_December 2020 - Present_)**
+**Founder @ [Tricouni](https://web-production-47f7.up.railway.app) (_December 2020 - Present_)**
 - Relaunched an iconic Swiss mountaineering brand. This first venture in entrepreneurship was eventually unsuccessful but was an important learning experience.
   
 
