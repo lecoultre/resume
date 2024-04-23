@@ -17,42 +17,33 @@
 **Founder @ [Tricouni](https://web-production-47f7.up.railway.app) (_2010 - 2015_)**
 - Relaunched an iconic Swiss mountaineering brand. This first venture in entrepreneurship was eventually unsuccessful but was an important learning experience.
 
-**Founder @ [Tricouni](https://web-production-47f7.up.railway.app) (_2010 - 2015_)**
+**Data & Risk Analyst @ [The Global Fund](https://www.the global fund.org) (_2015 - 2019_)**
 - Designed and coded models in Tableau and R to hedge market risks (ALM & VaR) of a 3 billion dollar FX portfolio
 - Designed and built data warehouses to improve risk management and analytics
 - Implemented audit recommendations, mitigated risks via root cause analysis and drafted operating procedures
 
-
 **Business Analyst @ [Lombard Odier](https://www.lombardodier.com) (_2005- 2009_)**
-
 - Managed the rollout of complex IT projects for the Bank’s remuneration and performance reviews
 - Ensured the smooth operation of the bank’s payroll and remuneration systems
 - Built a data warehouse on performance related data including ETL and reporting
 - Performed scenario analysis on the bank’s performance and bonus pool
 
+**Management Consultant @ [PriceWaterhouseCoopers](https://www.pwc.com) (_2000 - 2005_)**
+- Advised financial institutions on business intelligence, pricing and client segmentation
+- Performed scenario analysis using data science techniques and machine learning
+- Assisted on company turnarounds & business audits
+- Presented strategic recommendations and obtained buy-in from C-level executives
 
-**Founder @ [Tricouni](https://web-production-47f7.up.railway.app) (_2010 - 2015_)**
+**Fund Accountant @ [Capital International](https://www.capital group.com) (_1998 - 1999_)**
+- Calculated the net asset value of an emerging market fund worth close to $1 billion
+- Supervised the valuation of private placements and illiquid securities
+- Supervised trades and currency transactions on different international capital markets
 
-Management Consultant | PRICEWATERHOUSECOOPERS, Geneva (Mar. 2000 – Aug. 2005)
- Advised financial institutions on business intelligence, pricing and client segmentation
- Performed scenario analysis using data science techniques and machine learning
- Assisted on company turnarounds & business audits
- Presented strategic recommendations and obtained buy-in from C-level executives
-
-**Founder @ [Tricouni](https://web-production-47f7.up.railway.app) (_2010 - 2015_)**
-
-Fund Accountant | CAPITAL INTERNATIONAL, Geneva, Switzerland (Jun. 1998 – Dec. 1999)
- Calculated the net asset value of an emerging market fund worth close to $1 billion
- Supervised the valuation of private placements and illiquid securities
- Supervised trades and currency transactions on different international capital markets
-
-**Founder @ [Tricouni](https://web-production-47f7.up.railway.app) (_2010 - 2015_)**
-
-Head of Sub-Delegation & Delegate | INTERNATIONAL COMMITTEE OF THE RED CROSS, (1994 – 1996 & 2003)
- Managed a Red Cross delegation during the rise of Islamic state insurgency in Iraq
- Visited prisoners of war to monitor detention conditions (Bosnia Herzegovina & Peru)
- Deployed the delegation’s activities monitoring the application of the Geneva conventions
- Liaised with military and government officials to ensure security and prison visits
+**Head of Sub-Delegation & Delegation @ [International Committee of the Red Cross](https://www.ICRC.org) (_2010 - 2015_)**
+- Managed a Red Cross delegation during the rise of Islamic state insurgency in Iraq
+- Visited prisoners of war to monitor detention conditions (Bosnia Herzegovina & Peru)
+- Deployed the delegation’s activities monitoring the application of the Geneva conventions
+- Liaised with military and government officials to ensure security and prison visits
 
 
 ## Projects
