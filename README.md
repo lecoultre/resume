@@ -1,6 +1,6 @@
 # Risk Manager & Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Tableau, Power BI
+#### Technical Skills: Python, SQL, AWS, Tableau, Power BI, Solidworks, Blender, FreeCAD
 
 ## Education
 - FRM - Financial Risk Manager, [The Global Association of Risk Professionals](https://www.garp.org/) (_May 2019_)								       
@@ -8,13 +8,13 @@
 - International Relations, [The Graduate Institute Geneva](https://www.graduateinstitute.ch/) (_May 2017_)
 
 ## Work Experience
-**Founder @ [Fortrisk](https://fortrisk.com) (_June 2022 - Present_)**
+**Founder @ [Fortrisk](https://fortrisk.com) (_2020 - Present_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 
-**Founder @ [Bienfacture](https://www.bienfacture.com) (_December 2020 - Present_)**
+**Founder @ [Bienfacture](https://www.bienfacture.com) (_2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
 
-**Founder @ [Tricouni](https://web-production-47f7.up.railway.app) (_December 2020 - Present_)**
+**Founder @ [Tricouni](https://web-production-47f7.up.railway.app) (_2010 - 2015_)**
 - Relaunched an iconic Swiss mountaineering brand. This first venture in entrepreneurship was eventually unsuccessful but was an important learning experience.
   
 
