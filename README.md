@@ -61,15 +61,8 @@ Used **Python** to train over 100 machine learning models which estimated partic
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-
-
-- [Data Science YouTube](https://www.youtube.com)
 
 ## Publications
-1. Jean-Dipak Sen, Modeling Autonomic Pupillary Responses with Machine Learning (2019).
-2. Jean-Dipak Sen, Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-
-- [Data Science Blog](https://bienfacture.com)
+1. Jean-Dipak Sen, La nouvelle économie a besoin de nouveaux indicateurs, AGEFI (2010).
+2. Jean-Dipak Sen, Client segmentation in wealth management (2015)
+3. Jean-Dipak Sen, Using Machine Learning for Auditing (2024).
