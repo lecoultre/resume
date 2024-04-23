@@ -34,7 +34,7 @@
 - Assisted on company turnarounds & business audits
 - Presented strategic recommendations and obtained buy-in from C-level executives
 
-**Fund Accountant @ [Capital International](https://www.capital group.com) (_1998 - 1999_)**
+**Fund Accountant @ [Capital International](https://www.capitalgroup.com) (_1998 - 1999_)**
 - Calculated the net asset value of an emerging market fund worth close to $1 billion
 - Supervised the valuation of private placements and illiquid securities
 - Supervised trades and currency transactions on different international capital markets
