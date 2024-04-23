@@ -17,7 +17,7 @@
 **Founder @ [Tricouni](https://web-production-47f7.up.railway.app) (_2010 - 2015_)**
 - Relaunched an iconic Swiss mountaineering brand. This first venture in entrepreneurship was eventually unsuccessful but was an important learning experience.
 
-**Data & Risk Analyst @ [The Global Fund](https://www.the global fund.org) (_2015 - 2019_)**
+**Data & Risk Analyst @ [The Global Fund](https://www.theglobalfund.org) (_2015 - 2019_)**
 - Designed and coded models in Tableau and R to hedge market risks (ALM & VaR) of a 3 billion dollar FX portfolio
 - Designed and built data warehouses to improve risk management and analytics
 - Implemented audit recommendations, mitigated risks via root cause analysis and drafted operating procedures
