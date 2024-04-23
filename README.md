@@ -9,13 +9,13 @@
 
 ## Work Experience
 **Founder @ [Fortrisk](https://fortrisk.com) (_2020 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
+- Designed and coded a risk management software platform in Python. The tool is initially tailored for operational risk but is being expanded to handle market and credit risk.
 
 **Founder @ [Bienfacture](https://www.bienfacture.com) (_2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
+- Created a new brand based using lessons learned from my first entrepreneurship experience.
 
 **Founder @ [Tricouni](https://web-production-47f7.up.railway.app) (_2010 - 2015_)**
-- Relaunched an iconic Swiss mountaineering brand. This first venture in entrepreneurship was eventually unsuccessful but was an important learning experience.
+- Relaunched an iconic Swiss mountaineering brand with new products. This venture is no longer active.
 
 **Data & Risk Analyst @ [The Global Fund](https://www.theglobalfund.org) (_2015 - 2019_)**
 - Designed and coded models in Tableau and R to hedge market risks (ALM & VaR) of a 3 billion dollar FX portfolio
