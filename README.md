@@ -7,7 +7,7 @@
 - Accounting and Finance, [London School of Economics](https://www.lse.ac.uk/) (_December 2019_)
 - International Relations, [The Graduate Institute Geneva](https://www.graduateinstitute.ch/) (_May 2017_)
 
-## Work Experience
+## Projects
 **Founder @ [Fortrisk](https://fortrisk.com) (_2020 - Present_)**
 - Designed and coded a risk management software platform in Python. The tool is initially tailored for operational risk but is being expanded to handle market and credit risk.
 
@@ -17,6 +17,7 @@
 **Founder @ [Tricouni](https://web-production-47f7.up.railway.app) (_2010 - 2015_)**
 - Relaunched an iconic Swiss mountaineering brand with new products. This venture is no longer active.
 
+## Work Experience
 **Data & Risk Analyst @ [The Global Fund](https://www.theglobalfund.org) (_2015 - 2019_)**
 - Designed and coded models in Tableau and R to hedge market risks (ALM & VaR) of a 3 billion dollar FX portfolio
 - Designed and built data warehouses to improve risk management and analytics
@@ -46,17 +47,16 @@
 - Liaised with military and government officials to ensure security and prison visits
 
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
+## Publications
+
+### La nouvelle économie a besoin de nouveaux indicateurs
 [Publication](https://www.fortrisk.com)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. 
+Argued for the need of new indicators in evaluating tech-based companies. 
 
 ![Project 1](/assets/img/eeg_band_discovery.jpeg)
 
+### Client segmentation in wealth management
+[Publication](https://www.fortrisk.com)
 
-
-## Publications
-1. Jean-Dipak Sen, La nouvelle économie a besoin de nouveaux indicateurs, AGEFI (2010).
-2. Jean-Dipak Sen, Client segmentation in wealth management (2015)
-3. Jean-Dipak Sen, Using Machine Learning for Auditing (2024).
+Developed a client segmentation approach using **SPSS** to classify clients in segments using k-means clustering. 
