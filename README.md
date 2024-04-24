@@ -51,7 +51,7 @@
 ### Text Analysis of Tinker Tailor Soldier Spy
 ![Project 1](/assets/img/TinkerTailorSoldierSpy_1.png)
 
-Used AI algorithms to analyze a famous novel to help predict "who done it".
+Used Natural Language Processing to analyze a famous novel and help predict "who done it".
 
 ![Project 1](/assets/img/TinkerTailorSoldierSpy_3.png)
 
