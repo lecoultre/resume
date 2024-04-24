@@ -9,7 +9,7 @@
 
 ## Projects
 **Founder @ [Fortrisk](https://fortrisk.com) (_2020 - Present_)**
-- Designed and coded a risk management software platform in Python. The tool is initially tailored for operational risk but is being expanded to handle market and credit risk.
+- Designed and coded a risk management software platform in Python. Covering operational risk, the tool will soon handle market and credit risk.
 
 **Founder @ [Bienfacture](https://www.bienfacture.com) (_2020 - Present_)**
 - Created a new brand based using lessons learned from my first entrepreneurship experience.
