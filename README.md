@@ -59,7 +59,7 @@ Used Natural Language Processing to analyze a famous novel and help predict "who
 
 ### Client segmentation in wealth management
 
-Developed a client segmentation approach using **SPSS** to classify clients in segments using k-means clustering. 
+Developed a client segmentation approach to classify clients into segments using Principle Components Analysis and k-means clustering. 
 
 ### La nouvelle économie a besoin de nouveaux indicateurs
 
