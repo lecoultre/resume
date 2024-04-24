@@ -46,17 +46,24 @@
 - Deployed the delegation’s activities monitoring the application of the Geneva conventions
 - Liaised with military and government officials to ensure security and prison visits
 
-
 ## Publications
 
+### Text Analysis of Tinker Tailor Soldier Spy
+![Project 1](/assets/img/TinkerTailorSoldierSpy_1.png)
+
+Used AI algorithms to analyze a famous novel to determine "who done it".
+
+![Project 1](/assets/img/TinkerTailorSoldierSpy_3.png)
+
+[Link to code](https://github.com/lecoultre/TinkerTailorSoldierSpy)
+
+### Client segmentation in wealth management
+
+Developed a client segmentation approach using **SPSS** to classify clients in segments using k-means clustering. 
+
 ### La nouvelle économie a besoin de nouveaux indicateurs
-[Publication](https://www.fortrisk.com)
 
 Argued for the need of new indicators in evaluating tech-based companies. 
 
-![Project 1](/assets/img/eeg_band_discovery.jpeg)
 
-### Client segmentation in wealth management
-[Publication](https://www.fortrisk.com)
 
-Developed a client segmentation approach using **SPSS** to classify clients in segments using k-means clustering. 
