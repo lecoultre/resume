@@ -15,7 +15,7 @@
 - Created a new brand based using lessons learned from my first entrepreneurship experience.
 
 **Founder @ [Tricouni](https://web-production-47f7.up.railway.app) (_2010 - 2015_)**
-- Relaunched an iconic Swiss mountaineering brand with new products. This venture is no longer active.
+- Relaunched an iconic Swiss mountaineering brand with new products.
 
 ## Work Experience
 **Data & Risk Analyst @ [The Global Fund](https://www.theglobalfund.org) (_2015 - 2019_)**
