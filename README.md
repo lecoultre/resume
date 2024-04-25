@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, AWS, Tableau, Power BI, Solidworks, Blender, FreeCAD
 
 ## Education
-- FRM - Financial Risk Manager, [The Global Association of Risk Professionals](https://www.garp.org/) (_2017_)								       
+- FRM - Financial Risk Manager, [The Global Association of Risk Professionals](https://www.garp.org/) (_2018_)								       
 - Accounting and Finance, [London School of Economics](https://www.lse.ac.uk/) (_1998_)
 - International Relations, [The Graduate Institute Geneva](https://www.graduateinstitute.ch/) (_1992_)
 
@@ -49,9 +49,10 @@
 ## Publications
 
 ### Text Analysis of Tinker Tailor Soldier Spy
-![Project 1](/assets/img/TinkerTailorSoldierSpy_1.png)
 
-Used Natural Language Processing to analyze a famous novel and help predict "who done it".
+The book by John le Carré is a masterpiece in suspense and drama. Using the Python package nltk - natural language tool kit, the interactions between the various characters are mapped giving an important clue to the identity of the mole.
+
+![Project 1](/assets/img/TinkerTailorSoldierSpy_1.png)
 
 ![Project 1](/assets/img/TinkerTailorSoldierSpy_3.png)
 
