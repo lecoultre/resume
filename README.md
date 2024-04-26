@@ -12,10 +12,10 @@
 - Designed and coded a risk management software platform in Python. Covering operational risk, the tool will soon handle market and credit risk.
 
 **Founder @ [Bienfacture](https://www.bienfacture.com) (_2020 - Present_)**
-- Created a new brand in the manufacturing sector.
+- Created a new brand in the manufacturing sector. Work includes product design, manufactuting and marketing.
 
 **Founder @ [Tricouni](https://web-production-47f7.up.railway.app) (_2010 - 2015_)**
-- Relaunched an iconic Swiss mountaineering brand.
+- Relaunched an iconic Swiss mountaineering brand, including product design and raising funds with private investors.
 
 ## Work Experience
 **Data & Risk Analyst @ [The Global Fund](https://www.theglobalfund.org) (_2015 - 2019_)**
