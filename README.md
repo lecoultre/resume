@@ -15,7 +15,7 @@
 - Created a new brand in the manufacturing sector.
 
 **Founder @ [Tricouni](https://web-production-47f7.up.railway.app) (_2010 - 2015_)**
-- Relaunched an iconic Swiss mountaineering brand with new products.
+- Relaunched an iconic Swiss mountaineering brand.
 
 ## Work Experience
 **Data & Risk Analyst @ [The Global Fund](https://www.theglobalfund.org) (_2015 - 2019_)**
