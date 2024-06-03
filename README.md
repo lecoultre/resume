@@ -11,7 +11,7 @@
 
 **Founder @ [Fortrisk](https://fortrisk.com) (_2020 - Present_)**
 - Designing a risk management software platform in Python
-- COding a risk management platform with Django, Postgres SQL and a Rest API.
+- Coding a risk management platform with Django, Postgres SQL and a Rest API.
 
 **Data & Risk Analyst @ [The Global Fund](https://www.theglobalfund.org) (_2015 - 2019_)**
 - Designed and coded models in Tableau and R to hedge market risks (ALM & VaR) of a 3 billion dollar FX portfolio
