@@ -7,18 +7,6 @@
 - Accounting and Finance, [London School of Economics](https://www.lse.ac.uk/) (_1998_)
 - International Relations, [The Graduate Institute Geneva](https://www.graduateinstitute.ch/) (_1992_)
 
-## Projects
-**Founder @ [Fortrisk](https://fortrisk.com) (_2020 - Present_)**
-- Designing and coding a risk management software platform in Python which covers operational risk and soon market and credit risk.
-
-**Founder @ [Bienfacture](https://www.bienfacture.com) (_2020 - Present_)**
-- Creating a new brand in the manufacturing sector. Work includes product design, manufactuting and marketing.
-
-**Founder @ [Tricouni](https://web-production-47f7.up.railway.app) (_2010 - 2015_)**
-- Relaunched an iconic Swiss mountaineering brand, including product design and raising funds with private investors.
-
-.
-
 ## Work Experience
 **Data & Risk Analyst @ [The Global Fund](https://www.theglobalfund.org) (_2015 - 2019_)**
 - Designed and coded models in Tableau and R to hedge market risks (ALM & VaR) of a 3 billion dollar FX portfolio
@@ -47,6 +35,16 @@
 - Visited prisoners of war to monitor detention conditions (Bosnia Herzegovina & Peru)
 - Deployed the delegation’s activities monitoring the application of the Geneva conventions
 - Liaised with military and government officials to ensure security and prison visits
+
+## Projects
+**Founder @ [Fortrisk](https://fortrisk.com) (_2020 - Present_)**
+- Designing and coding a risk management software platform in Python which covers operational risk and soon market and credit risk.
+
+**Founder @ [Bienfacture](https://www.bienfacture.com) (_2020 - Present_)**
+- Creating a new brand in the manufacturing sector. Work includes product design, manufactuting and marketing.
+
+**Founder @ [Tricouni](https://web-production-47f7.up.railway.app) (_2010 - 2015_)**
+- Relaunched an iconic Swiss mountaineering brand, including product design and raising funds with private investors.
 
 ## Publications
 
