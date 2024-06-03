@@ -8,6 +8,11 @@
 - International Relations, [The Graduate Institute Geneva](https://www.graduateinstitute.ch/) (_1992_)
 
 ## Work Experience
+
+**Founder @ [Fortrisk](https://fortrisk.com) (_2020 - Present_)**
+- Designing a risk management software platform in Python
+- COding a risk management platform with Django, Postgres SQL and a Rest API.
+
 **Data & Risk Analyst @ [The Global Fund](https://www.theglobalfund.org) (_2015 - 2019_)**
 - Designed and coded models in Tableau and R to hedge market risks (ALM & VaR) of a 3 billion dollar FX portfolio
 - Designed and built data warehouses to improve risk management and analytics
@@ -37,8 +42,6 @@
 - Liaised with military and government officials to ensure security and prison visits
 
 ## Projects
-**Founder @ [Fortrisk](https://fortrisk.com) (_2020 - Present_)**
-- Designing and coding a risk management software platform in Python which covers operational risk and soon market and credit risk.
 
 **Founder @ [Bienfacture](https://www.bienfacture.com) (_2020 - Present_)**
 - Creating a new brand in the manufacturing sector. Work includes product design, manufactuting and marketing.
