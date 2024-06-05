@@ -1,6 +1,6 @@
 # Risk Manager & Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Tableau, Power BI, Solidworks, Blender, FreeCAD
+#### Technical Skills: Python (including AI and machine learning libraries), SQL, AWS, Azure, Tableau, Power BI, Solidworks, Blender, FreeCAD
 
 ## Certifications
 
@@ -8,7 +8,7 @@
 
 ## Education
 - Accounting and Finance - Diploma, [London School of Economics](https://www.lse.ac.uk/) (_1998_)
-- International Relations - BA & Masters, [The Graduate Institute Geneva](https://www.graduateinstitute.ch/) (_1992_)
+- International Relations - Masters % BA, [The Graduate Institute Geneva](https://www.graduateinstitute.ch/) (_1992_)
 
 ## Work Experience
 
