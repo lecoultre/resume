@@ -10,6 +10,8 @@
 - Accounting and Finance - Diploma, [London School of Economics](https://www.lse.ac.uk/) (_1998_)
 - International Relations - Masters & BA, [The Graduate Institute Geneva](https://www.graduateinstitute.ch/) (_1992_)
 
+---
+
 ## Work Experience
 
 **Founder @ [Fortrisk](https://fortrisk.com) (_2020 - Present_)**
