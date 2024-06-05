@@ -1,4 +1,4 @@
-# Risk Manager & Data Scientist
+# Data Scientist & Risk Manager
 
 #### Technical Skills: Python (including AI and machine learning libraries), SQL databases (Postgres, MSSQL, Oracle, MySQL, Cloud (AWS, Azure), Data Analytics (Tableau & Power BI), Design (Solidworks, Blender & FreeCAD)
 
