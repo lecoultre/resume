@@ -2,7 +2,7 @@
 
 #### Technical Skills: Python, SQL, AWS, Tableau, Power BI, Solidworks, Blender, FreeCAD
 
-## Certification
+## Certifications
 
 - Financial Risk Manager (FRM), [The Global Association of Risk Professionals](https://www.garp.org/) (_2018_)
 
