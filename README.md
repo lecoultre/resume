@@ -1,6 +1,6 @@
 # Risk Manager & Data Scientist
 
-#### Technical Skills: Python (including AI and machine learning libraries), SQL, AWS, Azure, Tableau, Power BI, Solidworks, Blender, FreeCAD
+#### Technical Skills: Python (including AI and machine learning libraries), SQL databases (Postgres, MSSQL, Oracle, MySQL, Cloud (AWS, Azure), Data Analytics (Tableau & Power BI), Design (Solidworks, Blender & FreeCAD)
 
 ## Certifications
 
