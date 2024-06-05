@@ -2,6 +2,8 @@
 
 #### Technical Skills: Python (including AI and machine learning libraries), SQL databases (Postgres, MSSQL, Oracle, MySQL, Cloud (AWS, Azure), Data Analytics (Tableau & Power BI), ERP (SAP and Oracle), Design (Solidworks, Blender & FreeCAD)
 
+---
+
 ## Certifications
 
 - Financial Risk Manager (FRM), [The Global Association of Risk Professionals](https://www.garp.org/) (_2018_)
