@@ -65,8 +65,6 @@ The book by John le Carré is a masterpiece in suspense and drama. Using the Pyt
 
 ![Project 1](/assets/img/TinkerTailorSoldierSpy_1.png)
 
-![Project 1](/assets/img/TinkerTailorSoldierSpy_3.png)
-
 [Link to code](https://github.com/lecoultre/TinkerTailorSoldierSpy)
 
 ### Client segmentation in wealth management
