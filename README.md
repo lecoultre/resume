@@ -2,10 +2,13 @@
 
 #### Technical Skills: Python, SQL, AWS, Tableau, Power BI, Solidworks, Blender, FreeCAD
 
+## Certification
+
+- Financial Risk Manager (FRM), [The Global Association of Risk Professionals](https://www.garp.org/) (_2018_)
+
 ## Education
-- FRM - Financial Risk Manager, [The Global Association of Risk Professionals](https://www.garp.org/) (_2018_)								       
-- Accounting and Finance, [London School of Economics](https://www.lse.ac.uk/) (_1998_)
-- International Relations, [The Graduate Institute Geneva](https://www.graduateinstitute.ch/) (_1992_)
+- Accounting and Finance - Diploma, [London School of Economics](https://www.lse.ac.uk/) (_1998_)
+- International Relations - BA & Masters, [The Graduate Institute Geneva](https://www.graduateinstitute.ch/) (_1992_)
 
 ## Work Experience
 
