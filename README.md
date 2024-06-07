@@ -4,11 +4,9 @@
 
 ---
 
-## Certifications
+## Education & Certifications
 
 - Financial Risk Manager (FRM), [The Global Association of Risk Professionals](https://www.garp.org/) (_2018_)
-
-## Education
 - Accounting and Finance - Diploma, [London School of Economics](https://www.lse.ac.uk/) (_1998_)
 - International Relations - Masters & BA, [The Graduate Institute Geneva](https://www.graduateinstitute.ch/) (_1992_)
 
@@ -16,13 +14,13 @@
 
 ## Work Experience
 
-**Founder @ [Fortrisk](https://fortrisk.com) (_2020 - Present_)**
+**Data Scientist & Risk Manager @ [Fortrisk](https://fortrisk.com) (_2020 - Present_)**
 - Designing a risk management software platform in Python
-- Coding a risk management platform with Django, Postgres SQL and a Rest API
-- Building dashboards for clients (balanced scorecards and dashboards for market, credit and operational risk)
+- Coding a risk management platform with Postgres SQL, Django and Rest API
+- Building dashboards for clients (dashboards for market, credit and operational risk)
 
 **Data & Risk Analyst @ [The Global Fund](https://www.theglobalfund.org) (_2015 - 2019_)**
-- Designed and coded models in Tableau and R to hedge market risks (ALM & VaR) of a 3 billion dollar FX portfolio
+- Designed and coded market risk models (ALM & VaR) for a 3 billion dollar FX portfolio
 - Designed and built data warehouses to improve risk management and analytics
 - Implemented audit recommendations, mitigated risks via root cause analysis and drafted operating procedures
 
@@ -43,11 +41,11 @@
 - Supervised the valuation of private placements and illiquid securities
 - Supervised trades and currency transactions on different international capital markets
 
-**Head of Sub-Delegation & Delegation @ [International Committee of the Red Cross](https://www.ICRC.org) (_2010 - 2015_)**
-- Managed a Red Cross delegation during the rise of Islamic state insurgency in Iraq
-- Visited prisoners of war to monitor detention conditions (Bosnia Herzegovina & Peru)
-- Deployed the delegation’s activities monitoring the application of the Geneva conventions
+**Head of Sub-Delegation & Delegate @ [International Committee of the Red Cross](https://www.ICRC.org) (_1995 - 1997_)**
+- Visited prisoners of war to verify detention conditions (Bosnia Herzegovina & Peru)
+- Monitored the application of the Geneva conventions and rules of war
 - Liaised with military and government officials to ensure security and prison visits
+- Managed a Red Cross delegation during the Islamic state insurgency in Iraq (in 2004)
 
 ## Projects
 
