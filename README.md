@@ -61,15 +61,6 @@ Using the Python package nltk (natural language tool kit) the interactions betwe
 
 ![Project 1](/assets/img/TinkerTailorSoldierSpy_1.png)
 
-[Link to code](https://github.com/lecoultre/TinkerTailorSoldierSpy)
-
 ### Client segmentation in wealth management
 
-Developed a client segmentation approach to classify clients into segments using Principle Components Analysis and k-means clustering. 
-
-### La nouvelle économie a besoin de nouveaux indicateurs
-
-Argued for the need of new indicators in evaluating tech-based companies. 
-
-
-
+Developed a client segmentation approach to classify clients into segments using Principle Components Analysis and k-means clustering.
