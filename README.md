@@ -57,7 +57,7 @@
 
 ### Text Analysis of Tinker Tailor Soldier Spy
 
-The book by John le Carré is a masterpiece in suspense and drama. Using the Python package nltk - natural language tool kit, the interactions between the various characters are mapped giving an important clue to the identity of the mole.
+Using the Python package nltk - natural language tool kit, the interactions between the various characters of John le Carré's book are mapped helping to identify the mole.
 
 ![Project 1](/assets/img/TinkerTailorSoldierSpy_1.png)
 
