@@ -10,16 +10,12 @@
 - Accounting and Finance - Diploma, [London School of Economics](https://www.lse.ac.uk/) (_1998_)
 - International Relations - Masters & BA, [The Graduate Institute Geneva](https://www.graduateinstitute.ch/) (_1992_)
 
-<br>
-
 ## Work Experience
 
 **Data Scientist & Risk Manager @ [Fortrisk](https://fortrisk.com) (_2020 - Present_)**
 - Designing a risk management software platform in Python
 - Coding a risk management platform with Postgres SQL, Django and Rest API
 - Building dashboards for clients (dashboards for market, credit and operational risk)
-
-<br>
 
 **Data & Risk Analyst @ [The Global Fund](https://www.theglobalfund.org) (_2015 - 2019_)**
 - Designed and coded market risk models (ALM & VaR) for a 3 billion dollar FX portfolio
