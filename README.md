@@ -19,6 +19,8 @@
 - Coding a risk management platform with Postgres SQL, Django and Rest API
 - Building dashboards for clients (dashboards for market, credit and operational risk)
 
+<br>
+
 **Data & Risk Analyst @ [The Global Fund](https://www.theglobalfund.org) (_2015 - 2019_)**
 - Designed and coded market risk models (ALM & VaR) for a 3 billion dollar FX portfolio
 - Designed and built data warehouses to improve risk management and analytics
