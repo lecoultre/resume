@@ -41,7 +41,7 @@
 - Visited prisoners of war to verify detention conditions (Bosnia Herzegovina & Peru)
 - Monitored the application of the Geneva conventions and rules of war
 - Liaised with military and government officials to ensure security and prison visits
-- Managed a Red Cross delegation during the Islamic state insurgency in Iraq (in 2004)
+- Managed a Red Cross delegation during the insurgency in Iraq (in 2004)
 
 ## Projects
 
