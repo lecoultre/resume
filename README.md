@@ -45,9 +45,6 @@
 - Managed a Red Cross delegation during the insurgency in Iraq (in 2004)
 
 ---
-
-</p>
-</p>
   
 ## Projects
 
