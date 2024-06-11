@@ -44,7 +44,10 @@
 - Liaised with military and government officials to ensure security and prison visits
 - Managed a Red Cross delegation during the insurgency in Iraq (in 2004)
 
-<p>
+---
+
+</p>
+</p>
   
 ## Projects
 
