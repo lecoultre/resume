@@ -1,6 +1,6 @@
 # Data Scientist & Risk Manager
 
-#### Technical Skills: Python (including AI and machine learning libraries), SQL databases (Postgres, MSSQL, Oracle, MySQL), Cloud (AWS, Azure), Data Analytics (Tableau & Power BI), ERP (SAP and Oracle), Design and Manufacturing (Solidworks, Blender & FreeCAD)
+#### Technical Skills: Python (including AI and machine learning libraries), SQL databases (Postgres, MSSQL, Oracle, MySQL), Cloud (AWS, Azure), Data Analytics (Tableau & Power BI), ERP (SAP and Oracle), Design (Solidworks, Blender & FreeCAD)
 
 ## Education & Certifications
 
@@ -23,7 +23,7 @@
 **Business Analyst @ [Lombard Odier](https://www.lombardodier.com) (_2005- 2009_)**
 - Managed the rollout of complex IT projects (including SAP) for the Bank’s remuneration and performance reviews
 - Ensured the smooth operation of the bank’s payroll and remuneration systems
-- Built a data warehouse on performance related data including ETL and reporting
+- Built a data warehouse on performance related data (ETL and reporting)
 - Performed scenario analysis on the bank’s performance and bonus pool
 
 **Management Consultant @ [PriceWaterhouseCoopers](https://www.pwc.com) (_2000 - 2005_)**
@@ -31,7 +31,6 @@
 - Performed scenario analysis using data science techniques and machine learning
 - Built reporting dashboards for top management (for example extracting data from SAP to Cognos OLAP)
 - Assisted on company turnarounds & business audits and presented recommendations to C-level executives
-
 
 **Fund Accountant @ [Capital International](https://www.capitalgroup.com) (_1998 - 1999_)**
 - Calculated the net asset value of an emerging market fund worth close to $1 billion
@@ -43,9 +42,6 @@
 - Monitored the application of the Geneva conventions and rules of war
 - Liaised with military and government officials to ensure security and prison visits
 - Managed a Red Cross delegation during the insurgency in Iraq (in 2004)
-
-<br>
-<br>
   
 ## Projects
 
