@@ -1,6 +1,6 @@
 # Data Scientist & Risk Manager
 
-#### Technical Skills: Python (including AI and machine learning libraries), SQL databases (Postgres, MSSQL, Oracle, MySQL), Cloud (AWS, Azure), Data Analytics (Tableau & Power BI), ERP (SAP and Oracle), Design (Solidworks, Blender & FreeCAD)
+#### Technical Skills: Python (including AI and machine learning libraries), SQL databases (Postgres, MSSQL, Oracle, MySQL), Cloud (AWS, Azure), Data Analytics (Tableau & Power BI), ERP (SAP and Oracle), Design and Manufacturing (Solidworks, Blender & FreeCAD)
 
 ## Education & Certifications
 
@@ -21,7 +21,7 @@
 - Implemented audit recommendations, mitigated risks via root cause analysis and drafted operating procedures
 
 **Business Analyst @ [Lombard Odier](https://www.lombardodier.com) (_2005- 2009_)**
-- Managed the rollout of complex IT projects for the Bank’s remuneration and performance reviews
+- Managed the rollout of complex IT projects (including SAP) for the Bank’s remuneration and performance reviews
 - Ensured the smooth operation of the bank’s payroll and remuneration systems
 - Built a data warehouse on performance related data including ETL and reporting
 - Performed scenario analysis on the bank’s performance and bonus pool
@@ -31,6 +31,7 @@
 - Performed scenario analysis using data science techniques and machine learning
 - Assisted on company turnarounds & business audits
 - Presented strategic recommendations and obtained buy-in from C-level executives
+- Built management reporting dashboards (for example extracting data from SAP for use in Cognos)
 
 **Fund Accountant @ [Capital International](https://www.capitalgroup.com) (_1998 - 1999_)**
 - Calculated the net asset value of an emerging market fund worth close to $1 billion
