@@ -29,9 +29,9 @@
 **Management Consultant @ [PriceWaterhouseCoopers](https://www.pwc.com) (_2000 - 2005_)**
 - Advised financial institutions on business intelligence, pricing and client segmentation
 - Performed scenario analysis using data science techniques and machine learning
-- Assisted on company turnarounds & business audits
-- Presented strategic recommendations and obtained buy-in from C-level executives
-- Built management reporting dashboards (for example extracting data from SAP for use in Cognos)
+- Built reporting dashboards for top management (for example extracting data from SAP to Cognos OLAP)
+- Assisted on company turnarounds & business audits and presented recommendations to C-level executives
+
 
 **Fund Accountant @ [Capital International](https://www.capitalgroup.com) (_1998 - 1999_)**
 - Calculated the net asset value of an emerging market fund worth close to $1 billion
