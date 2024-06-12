@@ -1,6 +1,6 @@
 # Data Scientist & Risk Manager
 
-[www.jean-dipak.com](https://www.jean-dipak.com), Email: <mail@jean-dipak.com>, Tel.: +41 79 794 5460
+[jean-dipak.com](www.jean-dipak.com), Email: <mail@jean-dipak.com>, Tel.: +41 79 794 5460
 
 #### Technical Skills: Python (including AI and machine learning libraries), SQL databases (Postgres, MSSQL, Oracle, MySQL), Cloud (AWS, Azure), Data Analytics (Tableau & Power BI), ERP (SAP and Oracle), Design (Solidworks, Blender & FreeCAD)
 
