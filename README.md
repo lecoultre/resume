@@ -61,7 +61,7 @@
 
 Using the Python package nltk (natural language tool kit) interactions between characters of John le Carré's book are mapped helping identify the mole.
 
-![Project 1](/assets/img/TinkerTailorSoldierSpy_1.png)
+![Project 1](/assets/img/TinkerTailorSoldierSpy_1_old.png)
 
 ### Client segmentation in wealth management
 
