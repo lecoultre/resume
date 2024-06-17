@@ -67,4 +67,4 @@ Using the Python package nltk (natural language tool kit) interactions between c
 
 Developed a client segmentation approach to classify clients into segments using Principle Components Analysis and k-means clustering.
 
-![CV in pdf](/assets/Jean-Dipak SEN - CV.pdf)
+![CV in pdf](/assets/img/Jean-Dipak SEN - CV.pdf)
